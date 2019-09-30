@@ -1,0 +1,5 @@
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.Modelo\bin\Debug\BibliotecaGames.Modelo.dll
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.Modelo\bin\Debug\BibliotecaGames.Modelo.pdb
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.Modelo\obj\Debug\BibliotecaGames.Entidades.csprojResolveAssemblyReference.cache
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.Modelo\obj\Debug\BibliotecaGames.Modelo.dll
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.Modelo\obj\Debug\BibliotecaGames.Modelo.pdb

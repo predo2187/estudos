@@ -1,0 +1,7 @@
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.DAL\bin\Debug\BibliotecaGames.DAL.dll
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.DAL\bin\Debug\BibliotecaGames.DAL.pdb
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.DAL\bin\Debug\BibliotecaGames.Modelo.dll
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.DAL\bin\Debug\BibliotecaGames.Modelo.pdb
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.DAL\obj\Debug\BibliotecaGames.DAL.csprojResolveAssemblyReference.cache
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.DAL\obj\Debug\BibliotecaGames.DAL.dll
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\Biblioteca-Games\BibliotecaGames.DAL\obj\Debug\BibliotecaGames.DAL.pdb

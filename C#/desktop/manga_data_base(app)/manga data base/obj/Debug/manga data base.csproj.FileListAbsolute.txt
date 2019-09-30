@@ -1,0 +1,70 @@
+C:\Users\predo44\source\repos\manga data base\manga data base\bin\Debug\manga data base.exe.config
+C:\Users\predo44\source\repos\manga data base\manga data base\bin\Debug\manga data base.exe
+C:\Users\predo44\source\repos\manga data base\manga data base\bin\Debug\manga data base.pdb
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga data base.csprojAssemblyReference.cache
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga_data_base.Properties.Resources.resources
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga data base.csproj.GenerateResource.cache
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga data base.csproj.CoreCompileInputs.cache
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga data base.exe
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga data base.pdb
+C:\Users\predo44\source\repos\manga data base\manga data base\bin\Debug\MySql.Data.dll
+C:\Users\predo44\source\repos\manga data base\manga data base\bin\Debug\Google.Protobuf.dll
+C:\Users\predo44\source\repos\manga data base\manga data base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\predo44\source\repos\manga data base\manga data base\bin\Debug\MySql.Data.xml
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga_data_base.frmCadastro.resources
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga data base.csproj.CopyComplete
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga_data_base.frmCadastroGenero.resources
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga_data_base.frmCadastroMangaka.resources
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga_data_base.frmHome.resources
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga_data_base.frmLista.resources
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga_data_base.frmCreditos.resources
+C:\Users\predo44\source\repos\manga data base\manga data base\obj\Debug\manga_data_base.frmControle.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\bin\Debug\manga data base.exe.config
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\bin\Debug\manga data base.exe
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\bin\Debug\manga data base.pdb
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\bin\Debug\MySql.Data.dll
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\bin\Debug\Google.Protobuf.dll
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\bin\Debug\MySql.Data.xml
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmControle.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmCadastroGenero.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmCadastro.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmCadastroMangaka.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmHome.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmLista.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.Properties.Resources.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga data base.csproj.GenerateResource.cache
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga data base.csproj.CoreCompileInputs.cache
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga data base.csproj.CopyComplete
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga data base.exe
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga data base.pdb
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmCadastroEditora.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmTotal.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmAddUser.resources
+C:\Users\predo44\Desktop\projetos\manga data base\manga data base\obj\Debug\manga_data_base.frmLogin.resources
+C:\Users\pedro.almeida\Desktop\projetos\manga_data_base(app)\manga data base\bin\Debug\manga data base.exe.config
+C:\Users\pedro.almeida\Desktop\projetos\manga_data_base(app)\manga data base\obj\Debug\manga data base.exe
+C:\Users\pedro.almeida\Desktop\projetos\manga_data_base(app)\manga data base\obj\Debug\manga data base.pdb
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\bin\Debug\manga data base.exe.config
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\bin\Debug\manga data base.exe
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\bin\Debug\manga data base.pdb
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\bin\Debug\Google.Protobuf.dll
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\bin\Debug\MySql.Data.xml
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga data base.csprojAssemblyReference.cache
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmAddUser.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmCadastroEditora.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmControle.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmCadastroGenero.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmCadastro.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmCadastroMangaka.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmHome.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmLista.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmTotal.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.frmLogin.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga_data_base.Properties.Resources.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga data base.csproj.GenerateResource.cache
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga data base.csproj.CoreCompileInputs.cache
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga data base.csproj.CopyComplete
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga data base.exe
+C:\Users\pedro.almeida\Desktop\projetos\C#\manga_data_base(app)\manga data base\obj\Debug\manga data base.pdb

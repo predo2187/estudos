@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Dapper_Project_CRUD_MVC.Models.EmployeeModel>
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Lista de Funcionários</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar", "AddOrEdit", "Employee")
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.position)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.salary)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.position)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.salary)
+            </td>
+            <td>
+                <a id="hrefdd" href="/Employee/Delete/@item.Employeeid"/>
+                @Html.ActionLink("Editar", "AddOrEdit", new { @id = item.Employeeid }) |<!--id = item.id, id que será usado é igual ao id do item selecionado-->
+                @Html.ActionLink("Deletar", "Delete", new { @id = item.Employeeid })                
+            </td>
+        </tr>
+
+    }
+</table>

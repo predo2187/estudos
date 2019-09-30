@@ -1,0 +1,118 @@
+﻿@model Dapper_Project_CRUD_MVC.Models.EmployeeModel
+
+@{
+    ViewBag.Title = "Edição";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div style="margin-top: 70px;"/>
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(model => model.name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.name, new { htmlAttributes = new { @class = "form-control", @id = "funcNome" } })
+                @Html.ValidationMessageFor(model => model.name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.position, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.position, new { htmlAttributes = new { @class = "form-control", @id = "funcPosition" } })
+                @Html.ValidationMessageFor(model => model.position, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.age, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.age, new { htmlAttributes = new { @class = "form-control", @id = "funcAge" } })
+                @Html.ValidationMessageFor(model => model.age, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.salary, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.salary, new { htmlAttributes = new { @class = "form-control", @id = "funcSalary" } })
+                @Html.ValidationMessageFor(model => model.salary, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="button" value="Salvar" onclick="checar()" class="btn btn-default" />
+            </div>
+            <br /><br />
+            <div class="col-md-offset-2 col-md-10">
+                <input type="button" value="Límpar" onclick="Limpar()" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+
+<script type="text/javascript">
+    var url = document.URL;
+    var id;
+    if (url == "http://localhost:60067/Employee/AddOrEdit") {
+        id = 0;
+    } else {
+        id = url.replace('http://localhost:60067/Employee/AddOrEdit/', '');
+    }
+    function checar() {
+        var emp = {};
+        emp["Employeeid"] = id;
+        //emp["Employeeid"] = $("#EmployeeId").val();
+        emp["name"] = $("#funcNome").val();
+        emp["position"] = $("#funcPosition").val();
+        emp["age"] = $("#funcAge").val();
+        emp["salary"] = $("#funcSalary").val();
+
+        con = confirm("Quer mesmo salvar o funcionário?");
+        if(con == 1){
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("AddOrEdit", "Employee")',
+                data: { "emp": emp },
+                success: function (data) {
+                    alert("Sucesso");
+                    window.location.href = "http://localhost:60067/";//esse comando é a mesma coisa do href do html padrão
+
+                },
+                error: function (ex) {
+                    alert("Ocorreu um erro!");
+
+                }
+            })
+        }
+    }
+    function Limpar() {
+        if (id == 0) {
+            ChamarLimpar();
+
+        } else {
+            con = confirm("Quer límpar os dados importados?");
+            if(con == 1){
+                ChamarLimpar();
+
+            }
+        }
+        function ChamarLimpar() {
+            $("#funcNome").val("");
+            $("#funcPosition").val("");
+            $("#funcAge").val("");
+            $("#funcSalary").val("");
+        }
+    }
+</script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,55 @@
+﻿@model Biblioteca_Jogos_mvc.Models.jogo
+
+@{
+    ViewBag.Title = "Deletar";
+}
+
+<h2>Deletar Jogo</h2>
+
+<h3>Você quer mesmo deletar o jogo?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nomeJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nomeJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.precoJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.precoJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.generoJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.generoJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dataCompra)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dataCompra)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Deletar" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar", "Index")
+        </div>
+    }
+</div>

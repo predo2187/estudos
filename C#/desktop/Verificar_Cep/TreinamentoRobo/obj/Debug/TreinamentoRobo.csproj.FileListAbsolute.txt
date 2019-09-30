@@ -1,0 +1,67 @@
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe.config
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\bin\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\bin\Debug\Indigosoft.RobotsMethods.Libraries.HtmlAgilityPackExtensions.dll
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\obj\Debug\TreinamentoRobo.Properties.Resources.resources
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.GenerateResource.Cache
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\obj\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\obj\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\obj\Debug\TreinamentoRobo.Form1.resources
+C:\Users\pedro.almeida\Source\Repos\Sustentacao\Treinamento\TreinamentoRobo\obj\Debug\TreinamentoRobo.csprojResolveAssemblyReference.cache
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe.config
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\bin\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\bin\Debug\Indigosoft.RobotsMethods.Libraries.HtmlAgilityPackExtensions.dll
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.csprojResolveAssemblyReference.cache
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.Form1.resources
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.Properties.Resources.resources
+C:\Users\pedro.almeida\Desktop\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.GenerateResource.Cache
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe.config
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\bin\Debug\TreinamentoRobo.pdb
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\bin\Debug\Indigosoft.RobotsMethods.Libraries.HtmlAgilityPackExtensions.dll
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.csprojAssemblyReference.cache
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.Form1.resources
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.Properties.Resources.resources
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.GenerateResource.cache
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.CoreCompileInputs.cache
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.CopyComplete
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.exe
+C:\Users\predo44\Desktop\mexer no utf-8\Treinamento original\TreinamentoRobo\obj\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe.config
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\obj\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\obj\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\obj\Debug\TreinamentoRobo.csprojResolveAssemblyReference.cache
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\obj\Debug\TreinamentoRobo.Properties.Resources.resources
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.GenerateResource.Cache
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\bin\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\obj\Debug\TreinamentoRobo.frmConsulta.resources
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\bin\Debug\Indigosoft.RobotsMethods.Libraries.HtmlAgilityPackExtensions.dll
+C:\Users\pedro.almeida\Desktop\JSON\TreinamentoRobo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro.almeida\Desktop\projetos\Verificar_Cep\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe.config
+C:\Users\pedro.almeida\Desktop\projetos\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Desktop\projetos\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe.config
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\bin\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\bin\Debug\TreinamentoRobo.pdb
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\bin\Debug\Indigosoft.RobotsMethods.Libraries.HtmlAgilityPackExtensions.dll
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.csprojAssemblyReference.cache
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.frmConsulta.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.Properties.Resources.resources
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.GenerateResource.cache
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.CoreCompileInputs.cache
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.csproj.CopyComplete
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.exe
+C:\Users\pedro.almeida\Desktop\projetos\C#\Verificar_Cep\TreinamentoRobo\obj\Debug\TreinamentoRobo.pdb

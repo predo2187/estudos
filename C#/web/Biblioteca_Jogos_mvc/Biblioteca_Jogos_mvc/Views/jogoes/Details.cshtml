@@ -1,0 +1,49 @@
+﻿@model Biblioteca_Jogos_mvc.Models.jogo
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes do Jogo</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nomeJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nomeJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.precoJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.precoJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.generoJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.generoJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dataCompra)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dataCompra)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.idJogo }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

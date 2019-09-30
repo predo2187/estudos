@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Biblioteca_Jogos_mvc.Models.jogo>
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar Jogo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nomeJogo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precoJogo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.generoJogo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dataCompra)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nomeJogo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.precoJogo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.generoJogo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dataCompra)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.idJogo }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.idJogo }) |
+            @Html.ActionLink("Deletar", "Delete", new { id=item.idJogo })
+        </td>
+    </tr>
+}
+
+</table>

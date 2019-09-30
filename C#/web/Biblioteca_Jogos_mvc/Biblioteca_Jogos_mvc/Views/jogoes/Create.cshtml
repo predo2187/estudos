@@ -1,0 +1,117 @@
+﻿@model Biblioteca_Jogos_mvc.Models.jogo
+
+@{
+     ViewBag.Title = "Cadastro";
+}
+    <h2>Cadastrar Novo Jogo</h2>
+
+    <body>
+        <form id="formP">
+            <div class="form-horizontal">
+                <h4>jogo</h4>
+                
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.Label("Nome do Jogo:", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.nomeJogo, new { htmlAttributes = new { @class = "form-control", @id = "nomeJogo" } })
+                        @Html.ValidationMessageFor(model => model.nomeJogo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.Label("Preço do jogo:", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.precoJogo, new { htmlAttributes = new { @class = "form-control", @id = "precoJogo" } })
+                        @Html.ValidationMessageFor(model => model.precoJogo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.Label("Genero do jogo:", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.generoJogo, new { htmlAttributes = new { @class = "form-control", @id = "generoJogo" } })
+                        @Html.ValidationMessageFor(model => model.generoJogo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.Label("Data de compra:", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.dataCompra, new { htmlAttributes = new { @class = "form-control", @id = "dataCompra" } })
+                        @Html.ValidationMessageFor(model => model.dataCompra, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="button" id="btnCadastro" value="Cadastrar" class="btn btn-default" onClick="Cadastro()" data-url="@Url.Action("Create","jogoes")" />
+                    </div>
+                    <br /><br />
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="button" id="btnLimpar" value="Límpar" class="btn btn-default" onClick="Limpar()" />
+                    </div>
+                </div>
+            </div>
+        </form>
+    </body>
+<script type="text/javascript">
+    function Cadastro() {
+        var button = $("#btnCadastro");
+
+        var jogo = {};
+
+        //jogo["idJogo"] = 7;
+        jogo["nomeJogo"] = $("#nomeJogo").val();
+        jogo["precoJogo"] = $("#precoJogo").val();
+        jogo["generoJogo"] = $("#generoJogo").val();
+        jogo["dataCompra"] = $("#dataCompra").val();
+
+        var alerta = "A campos em branco!";
+
+        if (jogo.nomeJogo == null || jogo.nomeJogo == "") {
+            alert(alerta);
+
+        } else if (jogo.precoJogo == null || jogo.precoJogo == "") {
+            alert(alerta);
+
+        } else if (jogo.generoJogo == null || jogo.generoJogo == "") {
+            alert(alerta);
+
+        }else if(jogo.dataCompra == null || jogo.dataCompra == ""){
+            alert(alerta);
+        }
+        else {
+            $.ajax({
+
+                type: 'POST',
+                url: '@Url.Action("Create", "jogoes")',
+                data: { "jogo": jogo },
+
+                success: function(data){
+                    alert("Jogo cadastrado com sucesso");
+                    Limpar();
+
+                },
+                error: function (ex) {
+                    alert("Ocorreu um erro!");
+
+                }
+            });
+        }
+    }
+    function Limpar() {
+        document.getElementById("nomeJogo").value = "";
+        document.getElementById("precoJogo").value = "";
+        document.getElementById("generoJogo").value = "";
+        document.getElementById("dataCompra").value = "";
+
+    }
+</script>
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

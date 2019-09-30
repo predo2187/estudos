@@ -1,0 +1,51 @@
+<html>
+<head>
+  <link rel="stylesheet" href="estilo.css">
+  <!--é necessário os três a baixo-->
+		  <link rel="stylesheet" href="bootstrap.min.css">
+		  <script src="jquery.slim.min.js"></script>
+		  <script src="bootstrap.bundle.min.js"></script>
+</head> 
+<header>
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators"><!--são as barrinhas que indicam em que posição o carrossel está-->
+      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li><!--active representa que começa por ela-->
+      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol><!--carousel-indicators-->
+
+    <div class="carousel-inner" role="listbox">
+      <!-- Primeiro Slide -->
+      <div class="carousel-item active" style="background-image: url('https://source.unsplash.com/LAaSoL0LrYs/1920x1080')">
+        <div class="carousel-caption d-none d-md-block">
+          <h2 class="display-4">Primeiro Slide</h2>
+          <p class="lead">Texto Primeiro Slide</p>
+        </div>
+      </div>
+      <!-- Segundo Slide-->
+      <div class="carousel-item" style="background-image: url('https://source.unsplash.com/bF2vsubyHcQ/1920x1080')">
+        <div class="carousel-caption d-none d-md-block">
+          <h2 class="display-4">Segundo Slide</h2>
+          <p class="lead">Texto segundo Slide</p>
+        </div>
+      </div>
+      <!-- Terceiro Slide -->
+      <div class="carousel-item" style="background-image: url('https://source.unsplash.com/szFUQoyvrxM/1920x1080')">
+        <div class="carousel-caption d-none d-md-block">
+          <h2 class="display-4">Terceiro Slide</h2>
+          <p class="lead">Texto Terceiro Slide</p>
+        </div>
+      </div>
+    </div>
+    <!--Botões de próximo e anteiror-->
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Próximo</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Anterior</span>
+    </a>
+  </div>
+</header>
+</html>

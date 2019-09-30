@@ -1,0 +1,144 @@
+<HTML>
+<HEAD>
+<TITLE>Paçoca</TITLE>
+</HEAD>
+<BODY onload="alert('Seja bem vindo!')" onUnload="alert('Tchau')"><!--onLoad é quando a página é carregada e onunload é qunado saí dela-->	
+
+<SCRIPT>
+function primeiraFuncao(){
+ alert("Hello World");
+}
+</script>
+<INPUT TYPE="BUTTON" VALUE="Clique aqui!" onClick="primeiraFuncao()"/><!--onClick é o evento, no caso quando clicar, e dentro dele o nome da função-->
+
+<script>
+function exemplo(texto){
+texto = "Hello Wold 2";
+alert(texto);
+}
+</SCRIPT>
+<input type="Button" value="Clique aqui!" onclick="exemplo()"/>
+
+<script>
+function caixaTexto(){
+var ret = prompt("Digite o nome: ","gggh");//o primeiro texto é o que vai aparecer em cima, e o segundo é o que aparece na caixa de texto
+var shor = mostranome(ret);//está executando a função mostranome, dando como parametro nome o valor ret, que foi digitado na caixa de texto
+alert(shor);//alert exibe uma caixa de menssagem na tela
+}
+function mostranome(nome){
+if(nome =="" || nome == null){
+return("Digite um nome válido");
+}
+else return(nome);
+}
+</script>
+<input type="button" value="Clique aqui!" onclick="caixaTexto()"/>
+
+<script>
+function chamarmsg(){
+menssagem("São Paulo", "Minas Gerais");//esse "menssagem" é o nome da função, ou seja está chamando ela dando os paramentros
+}
+function menssagem(menssagem1,menssagem2){
+alert("As cidades são: " + menssagem1 + " e " + menssagem2);
+}
+</script>
+<input type="button" value="Clique aqui"  onClick="chamarmsg()"/>
+
+<script>
+function teste(){
+if (form1.campo1.value==""){
+alert("Preencha o campo");
+}
+}
+</script>
+<br>
+<pre>
+<form name="form1">
+Nome:<input type="text" name="campo1" onBlur="teste()"/><!--o evento onBlur é quando o usuário tira o foco do objeto-->
+</pre>
+</form>
+
+<form name="form2">
+Nome:<input type="text" value="textogg" name="campo2" onselect="alert('O usuário selecionou ' + this.value)"/><!--onSelect vai pegar o texto selecionado e executar uma ação, no caso ele criou um alert e concatenou com o valor retornado pelo onselect-->
+</form>
+
+<script>
+valor=5
+alert(eval("'O resultado é ' + 2 * valor"));//aparentemento o eval trata todo o valor dentro dele como string
+</script>
+
+<script>
+function condicao(valor){
+if(valor == ""){
+alert("Não é nada");
+}
+ else if(isNaN(valor)){//aparentemento o isNaN serve para verificar se o valor é um texto ou não
+ alert("É um texto");
+ }
+ else alert("É um número");
+}
+</script>
+<form name="form3">
+Verifique: <input type="text" name="nome3" onBlur="condicao(this.value)"> 
+
+<script>
+valor=parseFloat("123.456");//parse float é um Convert.ToFloat
+alert("parseFloat: " + valor);
+</script> 
+
+<script>
+valor=parseInt("123.456");//parseInt é Convert.ToInt... ele pega todo o valor int e para quando o valor já não é mais, no caso .456 já não é mais valor convertivel para int, então ele o ignora
+alert("parseInt: " + valor);
+</script> 
+
+<script>
+Ancora="Predo ggh";
+valor=Ancora.anchor("inicio");//o anchor serve para linkar um valor do html, no caso esse script mandou exibir o valor no "inicio"
+document.write("<center>" + valor.big().fontcolor("blue").fontsize(3) + "</center>");//.big() serve para deixar o texto em negrito, funcionam da mesma forma os: samll, bold, italic, fixed, strike e fontcolor não tem o que dizer, fontsize também não tem o que dizer, está lendo toda essa linha, por isso dá para escrever comandos html
+</script>
+<a name="inicio"/> 
+
+<br>
+<script>
+texto = "IndigoSoft";
+alert('A posição do "o" em IndigoSoft está na posição: ' + texto.indexOf("o"));//o indexOf vai retornar o valor da posição do texto descrito
+</script>
+
+<script>
+texto="SENAC-MG";
+document.write("<center>" + texto.link("http://www.mg.senac.br") + "</center>");//está criando na página um link, com o "link"
+</script>
+
+<script>
+window.alert("Obrigado pela Visita"); //mesma coisa do alert
+</script> 	
+
+<script>
+function confirmacao(){
+teste = confirm("Quer fechar os arquivos?");//o confirm gera uma caixa de dialogo com opção de ok e cancel, o teste está recebendo o valor do confirm, ok é 1 e cancel é 0
+if(teste == 1){
+alert("Arquivos fechados");
+}else alert("Arquivos não fechados");
+}
+</script>
+<br>
+<input type="button" value="confirme" onclick="confirmacao()"/>
+
+<script>
+teste = prompt("Digite seu Nome:","");//o prompt gera uma caixa de dialogo que tem uma caixa de texto que manda o valor
+alert(teste + " seja Bem Vindo!");
+</script> 
+
+<script>
+function pegarValor(){
+var texto = document.getElementById("iddoteste").value;
+alert(eval("texto"));
+}
+</script>
+<br>
+<input type="text" id="iddoteste"/>
+<br>
+<input type="button" value="Pegar valor" onclick="pegarValor()"/>
+
+</BODY>
+</HTML> 

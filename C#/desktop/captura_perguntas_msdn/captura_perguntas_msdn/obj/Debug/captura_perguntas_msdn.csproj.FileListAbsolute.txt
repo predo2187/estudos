@@ -1,0 +1,36 @@
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.exe.config
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.exe
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.pdb
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.csprojResolveAssemblyReference.cache
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.Properties.Resources.resources
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.csproj.GenerateResource.Cache
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.exe
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.pdb
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.dll
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.pdb
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.xml
+c:\users\pedro.almeida\documents\visual studio 2015\Projects\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.frmCapturaPerguntas.resources
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.exe.config
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.exe
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.pdb
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.exe
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.pdb
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.xml
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.csprojResolveAssemblyReference.cache
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.frmCapturaPerguntas.resources
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.Properties.Resources.resources
+C:\Users\pedro.almeida\Desktop\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.csproj.GenerateResource.Cache
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.exe.config
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.exe
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.pdb
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.exe
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\captura_perguntas_msdn.pdb
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\bin\Debug\HtmlAgilityPack.xml
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.csprojResolveAssemblyReference.cache
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.frmCapturaPerguntas.resources
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.Properties.Resources.resources
+C:\Users\pedro.almeida\Desktop\projetos\captura_perguntas_msdn\captura_perguntas_msdn\obj\Debug\captura_perguntas_msdn.csproj.GenerateResource.Cache
